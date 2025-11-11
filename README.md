@@ -1,8 +1,4 @@
 
-  # Premium Car Rental Landing Page
-
-  This is a code bundle for Premium Car Rental Landing Page. The original project is available at https://www.figma.com/design/FpG43WOGJReTgZdKZiW6hn/Premium-Car-Rental-Landing-Page.
-
   ## Running the code
 
   Run `npm i` to install the dependencies.
